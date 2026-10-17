@@ -1,7 +1,8 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abdulla-al-Noman%20Orko&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=EEE%20Student%20%7C%20Power%20%26%20Robotics%20Enthusiast&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<h1>⚡ Abdulla-al-Noman Orko ⚡</h1>
+<h3>EEE Student | Power &amp; Robotics Enthusiast</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Electrical+%26+Electronic+Engineering+Student;Aspiring+Power+Systems+Engineer+%E2%9A%A1;Robotics+%7C+Embedded+Systems+%7C+IoT;Learning+by+building+real+projects" alt="Typing SVG" />
 
@@ -118,6 +119,6 @@ I learn best by **building**. Theory gives me the foundation, and practical proj
 
 *"Feed the curious mind, build the future."* ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 
+</div>
 </div>
