@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdullaalnomanorko&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=abdullaalnomanorko.abdullaalnomanorko&left_color=555555&right_color=0e75b6)
 ![Location](https://img.shields.io/badge/Bangladesh-006a4e?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![University](https://img.shields.io/badge/IUBAT-1f4e79?style=for-the-badge&logo=academia&logoColor=white)
 
@@ -87,7 +87,7 @@ I learn best by **building**. Theory gives me the foundation, and practical proj
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullaalnomanorko&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Graph"/>
+<img src="https://ghchart.rshah.org/00D9FF/abdullaalnomanorko" width="90%" alt="Contribution Graph"/>
 
 </div>
 
@@ -120,5 +120,4 @@ I learn best by **building**. Theory gives me the foundation, and practical proj
 *"Feed the curious mind, build the future."* ⚡
 
 
-</div>
 </div>
